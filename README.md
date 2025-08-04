@@ -5,3 +5,6 @@ In this challenge, your task is to predict the orientation of computer screensho
 The screenshots may contain in-game HUDs, menus, or gameplay scenes. So your model must learn to detect subtle visual cues and structural hints to infer the correct orientation.
 
 Games used in the test data are different from those in the training data.
+
+<img width="643" height="328" alt="image" src="https://github.com/user-attachments/assets/f85b05c8-ec12-4bb2-b052-3bd18c9ed29d" />
+
